@@ -1,0 +1,29 @@
+{
+  "name": "dd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-hash": "^2.0.1",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^6.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mysql2": "^3.6.1",
+    "nunjucks": "^3.2.1",
+    "sequelize": "^6.33.0",
+    "sequelize-cli": "^6.6.1",
+    "socket.io": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
